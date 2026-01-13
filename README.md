@@ -30,5 +30,3 @@ My core interests lie in **Generative AI (RAG & Agents)**, **MLOps**, and buildi
 
 * [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/luizgdev)
 * [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:luizg.dev@gmail.com)
-
-![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizgdev&show_icons=true&theme=dracula&hide_border=true)
